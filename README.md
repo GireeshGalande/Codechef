@@ -1,3 +1,3 @@
 # Codechef
 Problems solved by me on codechef.
-mycodechef username: gireeshgalande07
+my codechef username: gireeshgalande07
